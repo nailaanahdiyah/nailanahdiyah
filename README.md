@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nailanahdiyah
-- I’m interested in design actually but I'm currently learning python and C#
+- I’m interested in design actually but I currently learning python and C#
 - 📫 If you need something, you can contact me at nailanahdiyahh@gmail.com
 
 <!--- - 💞️ I’m looking to collaborate on ...
