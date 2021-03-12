@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nailanahdiyah
+- 👋 Hi, I’m Naila
 - I’m interested in design actually but I currently learning python and C#
 - 📫 If you need something, you can contact me at nailanahdiyahh@gmail.com
 
